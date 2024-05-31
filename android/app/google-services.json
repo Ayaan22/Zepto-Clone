@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759039738060",
+    "project_id": "zeptoclone-a00f9",
+    "storage_bucket": "zeptoclone-a00f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759039738060:android:484dff94e3cdb9a6284269",
+        "android_client_info": {
+          "package_name": "com.zeptoclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759039738060-rd2ubt7g4h98k0nr4lc6016540agtole.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeptoclone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "759039738060-b43q3dje9qm6l80ec7vnlc8h1vqjsjtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq5qt-HJgIsYGNC7FaebG-B5napNmO2UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759039738060-b43q3dje9qm6l80ec7vnlc8h1vqjsjtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
