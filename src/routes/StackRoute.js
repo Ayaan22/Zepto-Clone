@@ -13,7 +13,7 @@ const StackRoute = () => {
   return (
     <Stack.Navigator
       screenOptions={{headerShown: false}}
-      initialRouteName="Splash">
+      initialRouteName="Home">
       <Stack.Screen name="Home" component={Home} />
       <Stack.Screen name="Splash" component={Splash} />
       <Stack.Screen name="Login" component={Login} />

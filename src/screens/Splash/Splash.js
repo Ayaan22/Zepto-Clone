@@ -19,7 +19,7 @@ const Splash = ({navigation}) => {
         .catch(err => {
           console.log(err);
         });
-    }, 2000);
+    }, 4000);
   }, []);
 
   return (
